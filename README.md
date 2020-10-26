@@ -17,7 +17,7 @@ warp+, daha yüksek hızlar elde etmek ve bağlantınızın internet'in uzun vad
   - yönlendirse de yönlendirmese de mağazadan python'u ayrıca indirip kurun.
 - modül isteklerini yükleyelim:
 - aynı yöntemlerle cmd / terminale kopyalayın ve enterlayın: `pip install requests`
-- [buradan](https://github.com/xorcan/warp-plus-cloudflare/archive/master.zip) projeyi indirin ve çıkartın (unzip)
+- [buradan](https://github.com/xorcan/warp-plus-cloudflare/archive/main.zip) projeyi indirin ve çıkartın (unzip)
 - ayıklanan dizinde bir cmd / terminal / kabuk açın
 - şu satırı girin: `python warp1.py`
 - komut dosyasını çalıştırın ve kullanın
