@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://www.google.com/search?&q=s%C4%B1n%C4%B1rs%C4%B1z+warp%2B+verisi+xorcan" alt="Sınırsız WARP+ Verisi (betik)"><img src="https://github.com/xorcan/warp-plus-cloudflare/raw/master/pic.png" width="250"></a></br>
+<h2 align="center"><a href="https://www.google.com/search?&q=s%C4%B1n%C4%B1rs%C4%B1z+warp%2B+verisi+xorcan" alt="Sınırsız WARP+ Verisi (betik)"><img src="https://github.com/xorcan/warp-plus-cloudflare/raw/main/pic.png" width="250"></a></br>
 <b>Sınırsız 1.1.1.1 WARP+ Verisi (betik)</b></h2><h4 align="center">buradaki betiklerle 1.1.1.1 WARP+ hesabınızı süresiz olarak reşarj edebilirsiniz.</h4>
 
 
