@@ -29,7 +29,7 @@ warp+, daha yüksek hızlar elde etmek ve bağlantınızın internet'in uzun vad
 - `warp2.py` dosyasını bir düzenleyici ile açın ve `xorcan` değeri yerine warp+ kimliğinizi yazıp kaydedin.
 - çalıştırmak için: `python warp2.py`
 
-![](https://github.com/xorcan/warp-plus-cloudflare/blob/master/win.jpg)
+![](https://github.com/xorcan/warp-plus-cloudflare/blob/main/win.jpg)
 
 ### [?] androidde çalıştırmak
 
@@ -51,7 +51,7 @@ warp+, daha yüksek hızlar elde etmek ve bağlantınızın internet'in uzun vad
 3. gelişmiş (advanced) > tanılamalar (diagonistics)
 4. i̇stemci yapılandırması (client configuration)'nın altındaki kimlik (id) > basılı tutun ve kopyalayın.
 
-![](https://github.com/xorcan/warp-plus-cloudflare/blob/master/id.jpg)
+![](https://github.com/xorcan/warp-plus-cloudflare/blob/main/id.jpg)
 
 ## [!] uyarı
 
