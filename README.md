@@ -2,7 +2,7 @@
 <b>Sınırsız 1.1.1.1 WARP+ Verisi (betik)</b></h2><h4 align="center">buradaki betiklerle 1.1.1.1 WARP+ hesabınızı süresiz olarak reşarj edebilirsiniz.</h4>
 
 
-<p align="center"><img src="https://img.shields.io/github/languages/code-size/xorcan/warp-plus-cloudflare" alt="Kod Boyutu"> <img src="https://img.shields.io/github/languages/top/xorcan/warp-plus-cloudflare" alt="sınırsız warp+ verisi alma yöntemi"> <img src="https://img.shields.io/github/stars/xorcan/warp-plus-cloudflare" alt="GitHub Yıldızı"> <img src="https://img.shields.io/github/license/xorcan/warp-plus-cloudflare" alt="Lisans"> <img src="https://img.shields.io/github/issues/xorcan/warp-plus-cloudflare" alt="Hatalar"> <img src="https://img.shields.io/github/forks/xorcan/warp-plus-cloudflare" alt="Forklar">
+<p align="center"><img src="https://img.shields.io/github/languages/code-size/xorcan/warp-plus-cloudflare" alt="Kod Boyutu"> <img src="https://img.shields.io/github/languages/top/xorcan/warp-plus-cloudflare" alt="sınırsız warp+ verisi alma yöntemi"> <img src="https://img.shields.io/github/stars/xorcan/warp-plus-cloudflare" alt="GitHub Yıldızı"> <img src="https://img.shields.io/github/license/xorcan/warp-plus-cloudflare" alt="Lisans"> <img src="https://img.shields.io/github/issues/xorcan/warp-plus-cloudflare" alt="Hatalar"> <img src="https://img.shields.io/github/forks/xorcan/warp-plus-cloudflare" alt="Forklar"> <a href="https://github.com/xorcan/warp-plus-cloudflare" alt="Görüntülenme Sayısı"><img src="https://visitor-badge.laobi.icu/badge?page_id=xorcan.warp-plus-cloudflare"></a>
 
 **not: bu betik benim tarafımdan yazılmamıştır. sadece tamamlanmış, türkçeleştirilmiş ve "tek başına çalıştırılabilirlik" eklenmiştir.** 😉
 
